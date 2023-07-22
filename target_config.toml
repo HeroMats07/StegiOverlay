@@ -184,3 +184,10 @@ file = "ukrainetemp.png"
 startx = -500
 starty = -500
 priority = 127
+
+[[structure]]
+name = "muenzen1"
+file = "muenzen1.png"
+startx = -967
+starty = 39
+priority = 127
